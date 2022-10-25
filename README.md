@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francisco M Marcos</h1>
-<h3 align="center">A passionate backend developer and coffee from Brazil</h3>
+<h3 align="center">A passionate backend developer and coffee lover from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fmarcos8&label=Profile%20views&color=0e75b6&style=flat" alt="fmarcos8" /> </p>
 
